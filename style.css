@@ -1,0 +1,97 @@
+body {
+  font-family: 'Abril Fatface';
+  background-color: #FFC9B9;
+}
+
+.un {
+  color: #D68C45;
+  text-align: center;
+  margin-bottom: 10vh;
+}
+
+.deux {
+  margin-bottom: 10vh;
+}
+
+#gilda {
+  font-size: 15vw;
+  margin-bottom: 0;
+  height: 15vw;
+}
+
+#paris {
+  font-size: 3vw;
+  margin-top: 0;
+}
+
+#tease {
+  font-size: 3vw;
+  height: 2.5vw;
+  text-align: start;
+  margin-left: 32%;
+  margin-bottom: 0;
+  color: #FEFEE3;
+}
+
+#date {
+  text-align: center;
+  font-size: 5vw;
+  margin-top: 0;
+  height: 7vw;
+  color: #C1AAC0;
+}
+
+#contact {
+  text-align: center;
+  color: #D68C45;
+}
+
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 812px)
+and (orientation : portrait) {
+  .un {
+  color: #D68C45;
+  text-align: center;
+  margin-bottom: 10vh;
+  }
+
+  .deux {
+    margin-bottom: 10vh;
+  }
+
+  #gilda {
+    font-size: 15vw;
+    margin-bottom: 0;
+    height: 15vw;
+  }
+
+  #paris {
+    font-size: 3vw;
+    margin-top: 0;
+  }
+
+  #tease {
+    font-size: 3vw;
+    height: 2.5vw;
+    text-align: start;
+    margin-left: 32%;
+    margin-bottom: 0;
+    color: #FEFEE3;
+  }
+
+  #date {
+    text-align: center;
+    font-size: 5vw;
+    margin-top: 0;
+    height: 7vw;
+    color: #C1AAC0;
+  }
+
+  #contact {
+    text-align: center;
+    color: #D68C45;
+  }
+}
+
+
