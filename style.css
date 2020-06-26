@@ -47,50 +47,41 @@ body {
 }
 
 @media only screen
-and (min-device-width : 375px)
+and (min-device-width : 1px)
 and (max-device-width : 812px)
 and (orientation : portrait) {
   .un {
-  color: #D68C45;
-  text-align: center;
-  margin-bottom: 10vh;
+  margin-bottom: 13vh !important;
   }
 
   .deux {
-    margin-bottom: 10vh;
+    margin-bottom: 16vh !important;
   }
 
   #gilda {
-    font-size: 15vw;
+    font-size: 20vw !important;
     margin-bottom: 0;
-    height: 15vw;
+    height: 20vw !important;
+    margin-top: 25% !important;
   }
 
   #paris {
-    font-size: 3vw;
+    font-size: 6vw !important;
     margin-top: 0;
   }
 
   #tease {
-    font-size: 3vw;
-    height: 2.5vw;
-    text-align: start;
-    margin-left: 32%;
-    margin-bottom: 0;
-    color: #FEFEE3;
+    font-size: 7vw !important;
+    height: 6.5vw !important;
+    margin-left: 22% !important;
   }
 
   #date {
-    text-align: center;
-    font-size: 5vw;
-    margin-top: 0;
-    height: 7vw;
-    color: #C1AAC0;
+    font-size: 8vw !important;
   }
 
   #contact {
-    text-align: center;
-    color: #D68C45;
+    font-size: 4vw !important;
   }
 }
 
