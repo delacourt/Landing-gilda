@@ -1,6 +1,6 @@
 body {
   font-family: 'Abril Fatface';
-  background-color: #FFC9B9;
+  background-color: #F5505E;
 }
 
 .un {
@@ -43,7 +43,6 @@ body {
 
 #contact {
   text-align: center;
-  color: #D68C45;
 }
 
 @media only screen
@@ -51,7 +50,8 @@ and (min-device-width : 1px)
 and (max-device-width : 812px)
 and (orientation : portrait) {
   .un {
-  margin-bottom: 13vh !important;
+    margin-bottom: 13vh !important;
+    margin-top: 25% !important;
   }
 
   .deux {
@@ -62,7 +62,6 @@ and (orientation : portrait) {
     font-size: 20vw !important;
     margin-bottom: 0;
     height: 20vw !important;
-    margin-top: 25% !important;
   }
 
   #paris {
