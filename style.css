@@ -1,6 +1,6 @@
 body {
   font-family: 'Abril Fatface';
-  background-color: #F5505E;
+  background-color: #FFC9B9;
 }
 
 .un {
@@ -43,6 +43,7 @@ body {
 
 #contact {
   text-align: center;
+  color: #D68C45;
 }
 
 @media only screen
